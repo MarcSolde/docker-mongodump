@@ -1,5 +1,12 @@
 # From FORK, need to update
 
+## Quick info about env
+
+MYSQL_HOST -> host where the mysql is located
+MYSQL_PORT -> port in where the mysql goes through
+MYSQL_ROOT_PASSWORD -> root's password for the db
+CRON_SCHEDULE -> see info below 
+
 # tenorok/mongodumper
 
 Docker image with mongodump running as a cron task.
